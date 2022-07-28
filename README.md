@@ -1,3 +1,5 @@
+(My primary contribution to this project was the pre-processing of the LFM-1B data set into managable data for our experiments. The focus of my work can be found in the ProcessLFM-1b.ipynb file, which was later refactored by Lawrence to join the Spotify track information to the user profiles of Last FM users.)
+
 # KMusic-LBR21
 
 ## Description
